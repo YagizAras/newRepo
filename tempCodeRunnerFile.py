@@ -1,0 +1,3 @@
+
+            self.havayolu, 
+            self.kod ,
